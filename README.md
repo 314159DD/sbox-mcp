@@ -28,6 +28,13 @@
 
 **Coming soon to [sbox.game](https://sbox.game).** Watch this repo for the release announcement.
 
+## Support
+
+If sbox-mcp saves you time, you can support continued development:
+
+- [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=github)](https://github.com/sponsors/314159DD)
+- [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-☕-FFDD00)](https://buymeacoffee.com/314159DD)
+
 ## Built with
 
 - [s&box](https://sbox.game) — Facepunch's modern Source 2 + .NET 10 game engine
