@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "tools": [
+    {
+      "name": "health_check",
+      "description": "Returns plugin health, version, and uptime. Use to verify the MCP server is alive and reachable.",
+      "schema": {
+        "type": "object",
+        "properties": {},
+        "additionalProperties": false
+      }
+    }
+  ]
+}
